@@ -1,2 +1,2 @@
 # gitlearn
-Learning Git
+Repository is created for Learning git
